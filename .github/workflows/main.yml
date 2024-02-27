@@ -17,14 +17,14 @@ jobs:
         run: cd webSite_Comunication
 
       - name: Install Dependencies
-        run: npm install
+        run: sudo npm install
 
       - name: Build
-        run: npm run build
+        run: sudo npm run build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: webSite_Comunication/build
+          FOLDER: build
