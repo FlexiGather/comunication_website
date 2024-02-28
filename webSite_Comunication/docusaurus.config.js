@@ -9,7 +9,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'FlexiGather',
-  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -90,38 +89,42 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Project Guiding Teacher',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Prof. Joaquim Sousa Pinto',
+                href: 'https://www.ua.pt/pt/p/10312245',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Group Elements',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Rafaela Abrunhosa - 107658',
+                href: 'mailto:maria.abrunhosa@ua.pt',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Marta Inácio - 107826',
+                href: 'mailto:marta.oliveira.inacio@ua.pt',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Roberto Castro - 107133',
+                href: 'mailto:robertorcastro@ua.pt',
+              },
+              {
+                label: 'Sara Almeida - 108796',
+                href: 'mailto:sarafalmeida@ua.pt',
+              },
+              {
+                label: 'Tiago Gomes - 108307',
+                href: 'mailto:tiagocgomes@ua.pt',
               },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
