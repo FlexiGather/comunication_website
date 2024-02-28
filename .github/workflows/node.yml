@@ -38,4 +38,5 @@ jobs:
       with:
         branch: gh-pages  # The branch the action should deploy to.
         folder: webSite_Comunication/build  # The folder the action should deploy.
+        token: ${{ secrets.GITHUB_TOKEN }}  # Use the built-in GITHUB_TOKEN or a custom PAT
         clean: true  # Automatically remove deleted files from the deployment
