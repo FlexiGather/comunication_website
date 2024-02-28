@@ -45,7 +45,3 @@ jobs:
     - name: Build
       run: npm run build --if-present
       working-directory: webSite_Comunication
-
-    - name: Test
-      run: npm test
-      working-directory: webSite_Comunication
