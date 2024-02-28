@@ -1,0 +1,47 @@
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+        cache-dependency-path: webSite_Comunication/package-lock.json
+
+    - name: Change directory to React app
+      run: cd webSite_Comunication
+
+    - name: Check for lock file
+      run: |
+        if [ ! -f package-lock.json ]; then
+          echo "package-lock.json not found, running npm install to generate it..."
+          npm install
+        else
+          echo "package-lock.json found."
+        fi
+      working-directory: webSite_Comunication
+
+    - name: Install Dependencies
+      run: npm ci
+      working-directory: webSite_Comunication
+
+    - name: Build
+      run: npm run build --if-present
+      working-directory: webSite_Comunication
