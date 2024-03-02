@@ -8,8 +8,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        FlexiGather is a collection of several simple interfaces that together
+        create an integrated event management system.
+        The different interfaces must be used by the right staff.
       </>
     ),
   },
@@ -18,18 +19,18 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        FlexiGather allows you to create the event of your choice and fulfil your expectations.
+        Want a summer festival? Do you want a scout event? We will created the perfect platform for you!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Health and Safety',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our system will promote the safety and well-being of participants and staff since we use a medical zone
+        and record everything that happens inside the event (entrances and exits, medical emergencies, ...).
       </>
     ),
   },

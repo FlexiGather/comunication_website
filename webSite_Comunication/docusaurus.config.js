@@ -46,7 +46,7 @@ const config = {
           //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -75,12 +75,21 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/milestones',
+            label: 'Milestones',
+            position: 'left'
+          },
           {
             href: 'https://github.com/FlexiGather',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://drive.google.com/drive/folders/1Y9mboL0mh3XECKwF9_vTQU6tiZ36ZMby',
+            label: 'Drive',
             position: 'right',
           },
         ],
@@ -127,7 +136,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/FlexiGather',
               },
             ],
           },
