@@ -17,4 +17,4 @@ Our use scenario will be a **Scouts Event**, so the theme will be related to thi
 
 <!-- ![alt text](img/mer_database.png) -->
 
-> **_note:_**  All the diagrams were made using [Microsoft-Visio] (https://www.microsoft365.com/launch/visio).
+> **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio).

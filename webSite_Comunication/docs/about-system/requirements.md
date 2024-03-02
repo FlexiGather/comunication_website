@@ -66,4 +66,4 @@ We will separate the requirements by actors.
 
 <!-- ![alt text](img/usecase_administration.png) -->
 
-> **_note:_**  All the diagrams were made using [Microsoft-Visio] (https://www.microsoft365.com/launch/visio).
+> **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio).
