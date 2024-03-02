@@ -78,7 +78,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            to: '/milestones',
+            to: '/blog',
             label: 'Milestones',
             position: 'left'
           },
