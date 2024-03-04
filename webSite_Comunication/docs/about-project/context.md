@@ -2,14 +2,17 @@
 sidebar_position: 1
 ---
 
-# Context
+import custom from '@site/src/css/custom.css';
+
+# Context and Main Goals
 
 ## The context and specifications of the project
 
 Nowadays, the event management industry faces constant challenges.
-For that reason, we dpropose to evelop an integrated management system for the events to manage participants info,
-medical info, entries and exits, etc…
-However, our main challenge is to manage and be capable of handling large volumes of audiences in an organized way.
+For that reason, we aim to develop an **integrated management system** for specific events that is able to manage participants info,
+medical info, entries and exits control, etc…
+
+This being said, our main challenge is to manage and handle large volumes of audiences in an organized way.
 
 ## Goals of the project
 

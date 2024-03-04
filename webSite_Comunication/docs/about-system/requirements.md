@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # Requirements
 
-Since the FlexiGather is a big system we will have many actors. The main acters are the **participants**, the **medical and sales staff** and the **administrators**.
+Work in progress...
+
+<!-- Since the FlexiGather is a big system we will have many actors. The main acters are the **participants**, the **medical and sales staff** and the **administrators**.
 
 The funcional requirements are used to define the function of a software system.
 We will separate the requirements by actors.
@@ -42,7 +44,7 @@ We will separate the requirements by actors.
 **As a** Participant, **I want** to see how much money do I have in my account **so that** I can by something the sales point.
 **As a** Participant who is **Responsible** for other participant, **I want** to be notified when a participant arrives to the infirmary **so that** I can be able to follow what's going on.
 
-<!-- ![alt text](img/usecase_participants.png) -->
+![alt text](img/usecase_participants.png)
 
 ### Medical Staff
 
@@ -50,20 +52,20 @@ We will separate the requirements by actors.
 **As a** Medical staff, **I want** access the list of allergies or concerns of a pacient **so that** I can make the best decisioins and give him the best treatments.
 **As a** Medical staff, **I want** ... **so that** .
 
-<!-- ![alt text](img/usecase_medicalstaff.png) -->
+![alt text](img/usecase_medicalstaff.png)
 
 ### Sales Staff
 
 **As a** Sales staff, **I want** to be able to read the participant identification **so that** I can load money in his account, exchanging the physical money.
 **As a** Sales staff, **I want** sale a product **so that** I can recieve money.
 
-<!-- ![alt text](img/usecase_salesstaff.png) -->
+![alt text](img/usecase_salesstaff.png)
 
 ### Administration
 
 **As an** Administrator, **I want** to regist the participants and staff **so that** I can have access to their data.
 **As an** Administrator, **I want** to regist the participants and staff **so that** I can presented them in the system as participants with a unique identification.
 
-<!-- ![alt text](img/usecase_administration.png) -->
+![alt text](img/usecase_administration.png)
 
-> **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio).
+> **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio). -->

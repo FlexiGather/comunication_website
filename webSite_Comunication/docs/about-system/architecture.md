@@ -6,6 +6,8 @@ sidebar_position: 3
 
 The architecture of our system can be illustrated through the following diagram.
 
-Our database is implemented in **SQL** and our frontend and the connections will be implemented with **ASP.NET** thats used dependencies of HTML e C#.
+![image](@site/src/images/arquitetura_sf.png)
 
-<!-- > **_note:_**  All the diagrams were made using [Marta-site](). -->
+Our database is implemented in **SQL** and our frontend and the connections will be implemented with **ASP.NET Core** that uses HTML and C# dependencies.
+
+> **_note:_**  This diagram was made using [Lucid.app](https://lucid.app).
