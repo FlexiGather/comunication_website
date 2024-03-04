@@ -72,6 +72,11 @@ const config = {
         },
         items: [
           {
+            to: '/about_us',
+            label: 'About Us',
+            position: 'left'
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',

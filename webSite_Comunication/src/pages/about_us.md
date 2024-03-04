@@ -4,7 +4,6 @@ title: About us
 
 import Text_Color from '@site/src/components/Text_Color'
 
-
 # <h1><Text_Color color="#38b6df">Hi there!</Text_Color></h1>
 
 ## Get to know our team :)
