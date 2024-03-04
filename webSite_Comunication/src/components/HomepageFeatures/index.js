@@ -10,7 +10,7 @@ const FeatureList = [
       <>
         FlexiGather is a collection of several simple interfaces that together
         create an integrated event management system.
-        The different interfaces must be used by the right staff.
+        The different interfaces must be used by the right staff or participants.
       </>
     ),
   },
@@ -19,8 +19,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        FlexiGather allows you to create the event of your choice and fulfil your expectations.
-        Want a summer festival? Do you want a scout event? We will created the perfect platform for you!
+        FlexiGather allows you to create the event of your choice and fullfil your expectations.
+        Want a sport competition? Do you want a scouts event? We will created the perfect platform for you!
       </>
     ),
   },

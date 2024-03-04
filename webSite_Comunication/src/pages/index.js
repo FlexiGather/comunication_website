@@ -30,7 +30,7 @@ function HomepageHeader() {
           <Heading as="h1" className="hero__title">
             {siteConfig.title}
           </Heading>
-          <p className="hero__subtitle">WebSite for the communication of the Informatic Project 2023-2024</p>
+          <p className="hero__subtitle">Your event, just like you need it to be!</p>
       </div>
     </div>
   );

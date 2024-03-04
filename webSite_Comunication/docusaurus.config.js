@@ -72,11 +72,6 @@ const config = {
         },
         items: [
           {
-            to: '/about_us',
-            label: 'About Us',
-            position: 'left'
-          },
-          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
@@ -103,7 +98,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Project Guiding Teacher',
+            title: 'Guiding Teacher',
             items: [
               {
                 label: 'Prof. Joaquim Sousa Pinto',

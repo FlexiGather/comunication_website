@@ -1,8 +1,10 @@
 ---
 title: About us
+full_width: true
 ---
 
 import Text_Color from '@site/src/components/Text_Color'
+import Layout from '@site/src/components/Page_Layout'
 
 # <h1><Text_Color color="#38b6df">Hi there!</Text_Color></h1>
 
