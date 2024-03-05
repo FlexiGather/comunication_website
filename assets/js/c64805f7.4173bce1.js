@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[5292],{4480:e=>{e.exports=JSON.parse('{"label":"project calendar","permalink":"/comunication_website/blog/tags/project-calendar","allTagsPath":"/comunication_website/blog/tags","count":1,"unlisted":false}')}}]);
