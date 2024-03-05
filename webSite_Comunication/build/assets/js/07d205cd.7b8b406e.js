@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[4506],{7843:a=>{a.exports=JSON.parse('{"label":"communication plan","permalink":"/comunication_website/blog/tags/communication-plan","allTagsPath":"/comunication_website/blog/tags","count":1,"unlisted":false}')}}]);

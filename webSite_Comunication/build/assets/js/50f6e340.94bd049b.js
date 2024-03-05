@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[7876],{3958:e=>{e.exports=JSON.parse('{"permalink":"/comunication_website/blog/tags/elaboration-fase","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
