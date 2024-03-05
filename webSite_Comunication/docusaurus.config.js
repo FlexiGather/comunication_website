@@ -67,7 +67,7 @@ const config = {
       navbar: {
         title: 'FlexiGather',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'FlexiGather_Logo',
           src: 'logo/Logo.jpeg',
         },
         items: [
@@ -96,52 +96,72 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Guiding Teacher',
-            items: [
-              {
-                label: 'Prof. Joaquim Sousa Pinto',
-                href: 'https://www.ua.pt/pt/p/10312245',
-              },
-            ],
-          },
-          {
-            title: 'Group Elements',
-            items: [
-              {
-                label: 'Rafaela Abrunhosa - 107658',
-                href: 'mailto:maria.abrunhosa@ua.pt',
-              },
-              {
-                label: 'Marta Inácio - 107826',
-                href: 'mailto:marta.oliveira.inacio@ua.pt',
-              },
-              {
-                label: 'Roberto Castro - 107133',
-                href: 'mailto:robertorcastro@ua.pt',
-              },
-              {
-                label: 'Sara Almeida - 108796',
-                href: 'mailto:sarafalmeida@ua.pt',
-              },
-              {
-                label: 'Tiago Gomes - 108307',
-                href: 'mailto:tiagocgomes@ua.pt',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/FlexiGather',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        //     title: 'Guiding Teacher',
+        //     items: [
+        //       {
+        //         label: 'Prof. Joaquim Sousa Pinto',
+        //         href: 'https://www.ua.pt/pt/p/10312245',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'Group Elements',
+        //     items: [
+        //       {
+        //         label: 'Rafaela Abrunhosa - 107658',
+        //         href: 'mailto:maria.abrunhosa@ua.pt',
+        //       },
+        //       {
+        //         label: 'Marta Inácio - 107826',
+        //         href: 'mailto:marta.oliveira.inacio@ua.pt',
+        //       },
+        //       {
+        //         label: 'Roberto Castro - 107133',
+        //         href: 'mailto:robertorcastro@ua.pt',
+        //       },
+        //       {
+        //         label: 'Sara Almeida - 108796',
+        //         href: 'mailto:sarafalmeida@ua.pt',
+        //       },
+        //       {
+        //         label: 'Tiago Gomes - 108307',
+        //         href: 'mailto:tiagocgomes@ua.pt',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'More',
+        //     items: [
+        //       {
+        //         label: 'GitHub',
+        //         href: 'https://github.com/FlexiGather',
+        //       },
+        //     ],
+        //   },
+        // ],
+        logo: {
+          alt : 'FlexiGather repository on GitHub',
+          src: 'img/icons8-github-96.png',
+          href: 'https://github.com/FlexiGather',
+          width: 40,
+          height: 40,
+        },
+        // links: [
+        //   {
+        //     title: 'Docs',
+        //     items: [
+        //       {
+        //         label: 'Style Guide',
+        //         to: 'docs/',
+        //       },
+        //       {
+        //         label: 'Second Doc',
+        //         to: 'docs/doc2/',
+        //       },
+        //     ],
+        //   },
+        // ],
+        copyright: `<a href="docs/about_us">Group 2</a> <br> Informatics Project, <a href ="https://www.ua.pt/">University of Aveiro</a> <br> Copyright © ${new Date().getFullYear()} FlexiGather, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
