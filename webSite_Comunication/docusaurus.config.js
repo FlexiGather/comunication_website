@@ -15,13 +15,13 @@ const config = {
   url: 'https://comunication_website.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/comunication_website/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
+  projectName: 'FlexiGather.github.io', // Usually your repo name.
   organizationName: 'FlexiGather', // Usually your GitHub org/user name.
-  projectName: 'FlexiGather', // Usually your repo name.
-
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
