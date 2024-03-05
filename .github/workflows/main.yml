@@ -22,8 +22,6 @@ jobs:
         with:
           node-version: 20
           cache: npm
-      - name: Move to Correct folder
-        run: cd webSite_Comunication
       - name: Install dependencies
         run: npm ci
       - name: Build website
