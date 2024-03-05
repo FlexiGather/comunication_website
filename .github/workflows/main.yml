@@ -8,7 +8,6 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
@@ -26,24 +25,22 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-      working-directory: ./webSite_Comunication
-
-    - name: Upload coverage to Codecov
-      uses: codecov/codecov-action@v1
+      working-directory: ./webSite_Comunication  # Ensure this points to the directory containing your package.json
 
     - name: Build
       run: npm run build
-      working-directory: ./webSite_Comunication
+      working-directory: ./webSite_Comunication  # This should match the directory containing your package.json and where your build script is meant to run
 
     - name: Deploy
       run: |
-        git config --global user.name $user_name
-        git config --global user.email $user_email
-        git remote set-url origin https://${github_token}@github.com/${repository}
+        git config --global user.name ${{ env.user_name }}
+        git config --global user.email ${{ env.user_email }}
+        git remote set-url origin https://${{ secrets.github_token }}@github.com/${{ env.repository }}
         git config --list  # Print out Git configurations for debugging
         npm run deploy
-    env:
-      user_name: 'github-actions[bot]'
-      user_email: 'github-actions[bot]@users.noreply.github.com'
-      github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
-      repository: ${{ github.repository }}
+      working-directory: ./webSite_Comunication  # Again, ensure this is correct for the deployment script
+      env:
+        user_name: 'github-actions[bot]'
+        user_email: 'github-actions[bot]@users.noreply.github.com'
+        github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+        repository: ${{ github.repository }}
