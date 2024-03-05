@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[5685],{8188:a=>{a.exports=JSON.parse('{"label":"elaboration fase","permalink":"/blog/tags/elaboration-fase","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
