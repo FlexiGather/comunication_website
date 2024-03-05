@@ -1,0 +1,8 @@
+{
+    "label": "System Informations",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "This section provides informations about the system. We will present here the database, requirements as user cases, the architecture and the tecnologies used. We will also present the prototype. As mentionated before, our system is a collection of several simples interfaces and for that reason we will separate the prototype into the different interfaces."
+    }
+}
