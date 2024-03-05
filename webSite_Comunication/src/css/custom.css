@@ -33,10 +33,17 @@
 
 
 .header {
-  background-image: linear-gradient(to bottom, #00B4DB, #0083B0);
+  background-image: linear-gradient(to bottom, #2bd6db, #00B4DB, #0083B0, #2c5cbb);
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
   color: white;
+}
+
+.footer {
+  text-align: center;
+  align-items: center;
+  position: relative;
+  height: 12rem;
 }

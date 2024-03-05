@@ -11,7 +11,7 @@ Our use scenario will be a **Scouts Event**, so the theme will be related to thi
 
 ## DER - Entity-Relation Diagram
 
-![image](@site/src/images/DER.jpeg)
+![image](@site/static/img/DER.jpeg)
 
 <!-- ## MER - Entity-Relation Model -->
 
