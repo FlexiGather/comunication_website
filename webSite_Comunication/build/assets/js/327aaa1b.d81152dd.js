@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[3971],{1568:e=>{e.exports=JSON.parse('{"label":"requirements elicitation","permalink":"/blog/tags/requirements-elicitation","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

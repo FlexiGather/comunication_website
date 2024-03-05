@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[834],{8508:e=>{e.exports=JSON.parse('{"label":"objectives","permalink":"/blog/tags/objectives","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

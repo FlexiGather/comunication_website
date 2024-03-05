@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[6470],{1293:e=>{e.exports=JSON.parse('{"label":"presentation","permalink":"/blog/tags/presentation","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

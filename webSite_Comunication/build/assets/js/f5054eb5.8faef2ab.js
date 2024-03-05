@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[2819],{2451:e=>{e.exports=JSON.parse('{"label":"objectives","permalink":"/comunication_website/blog/tags/objectives","allTagsPath":"/comunication_website/blog/tags","count":1,"unlisted":false}')}}]);
