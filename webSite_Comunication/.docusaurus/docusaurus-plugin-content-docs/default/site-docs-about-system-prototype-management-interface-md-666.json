@@ -1,0 +1,26 @@
+{
+  "id": "about-system/prototype/management_interface",
+  "title": "Management Interface",
+  "description": "Website",
+  "source": "@site/docs/about-system/prototype/management_interface.md",
+  "sourceDirName": "about-system/prototype",
+  "slug": "/about-system/prototype/management_interface",
+  "permalink": "/comunication_website/docs/about-system/prototype/management_interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Access Interface",
+    "permalink": "/comunication_website/docs/about-system/prototype/access_interface"
+  },
+  "next": {
+    "title": "Medical Interface",
+    "permalink": "/comunication_website/docs/about-system/prototype/medical_interface"
+  }
+}

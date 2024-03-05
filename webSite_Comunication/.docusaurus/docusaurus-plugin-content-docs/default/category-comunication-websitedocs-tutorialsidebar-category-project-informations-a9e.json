@@ -1,0 +1,12 @@
+{
+  "title": "Project Informations",
+  "description": "5 minutes to learn the most important FlexiGather concepts.",
+  "slug": "/category/project-informations",
+  "permalink": "/comunication_website/docs/category/project-informations",
+  "navigation": {
+    "next": {
+      "title": "Context and Main Goals",
+      "permalink": "/comunication_website/docs/about-project/context"
+    }
+  }
+}

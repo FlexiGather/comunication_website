@@ -1,0 +1,22 @@
+{
+  "id": "about_us",
+  "title": "About us",
+  "description": "Get to know our team :)",
+  "source": "@site/docs/about_us.md",
+  "sourceDirName": ".",
+  "slug": "/about_us",
+  "permalink": "/comunication_website/docs/about_us",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "About us",
+    "full_width": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/comunication_website/docs/about-system/prototype/dashboard"
+  }
+}

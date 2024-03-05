@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[7615],{3471:e=>{e.exports=JSON.parse('{"label":"system architecture","permalink":"/blog/tags/system-architecture","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

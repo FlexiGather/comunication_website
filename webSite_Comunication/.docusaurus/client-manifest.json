@@ -1,0 +1,823 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "5533": [
+      1869,
+      3249,
+      4813,
+      6061,
+      7643,
+      8401,
+      8747,
+      5533
+    ],
+    "8747": [
+      1869,
+      3249,
+      4813,
+      5533,
+      7643,
+      8747
+    ],
+    "17896441": [
+      1869,
+      5533,
+      8401
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "00506a50": [
+      7340
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "04dd2977": [
+      3250
+    ],
+    "07d205cd": [
+      4506
+    ],
+    "1076ae17": [
+      6121
+    ],
+    "14eb3368": [
+      1869,
+      6969
+    ],
+    "17538f56": [
+      9196
+    ],
+    "1809d26b": [
+      751
+    ],
+    "1e4f5a6a": [
+      162
+    ],
+    "1f391b9e": [
+      1869,
+      5533,
+      6061
+    ],
+    "2099093f": [
+      3977
+    ],
+    "21a7a34d": [
+      6040
+    ],
+    "226b3bf3": [
+      2869
+    ],
+    "362fff98": [
+      3771
+    ],
+    "3638e510": [
+      4800
+    ],
+    "393be207": [
+      4134
+    ],
+    "3a9f0759": [
+      2371
+    ],
+    "3c54f5fd": [
+      5163
+    ],
+    "3db5e0d4": [
+      3406
+    ],
+    "50f6e340": [
+      7876
+    ],
+    "51af4da6": [
+      6341
+    ],
+    "5994e9b4": [
+      4914
+    ],
+    "5bb75cfc": [
+      8930
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "61afdcd1": [
+      7367
+    ],
+    "666606c6": [
+      5262
+    ],
+    "6875c492": [
+      1869,
+      5533,
+      8747,
+      4813
+    ],
+    "6c24bdb9": [
+      333
+    ],
+    "6f7875bc": [
+      8255
+    ],
+    "74047e82": [
+      4160
+    ],
+    "814f3328": [
+      7472
+    ],
+    "84db0f7f": [
+      1348
+    ],
+    "87b2fd61": [
+      2753
+    ],
+    "8fe22858": [
+      301
+    ],
+    "935f2afb": [
+      8581
+    ],
+    "9770a6b9": [
+      4768
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "a6aa9e1f": [
+      1869,
+      5533,
+      8747,
+      7643
+    ],
+    "a71ad75c": [
+      4234
+    ],
+    "a73e2d41": [
+      5488
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "b537e041": [
+      1112
+    ],
+    "b8316427": [
+      3922
+    ],
+    "c4890ec4": [
+      9755
+    ],
+    "c4f5d8e4": [
+      1869,
+      2634
+    ],
+    "c64805f7": [
+      5292
+    ],
+    "c68bd2d6": [
+      5154
+    ],
+    "ccc49370": [
+      1869,
+      5533,
+      8747,
+      3249
+    ],
+    "d26e203e": [
+      2440
+    ],
+    "d5b421ab": [
+      4866
+    ],
+    "de34170c": [
+      6448
+    ],
+    "e392cb6e": [
+      6934
+    ],
+    "f5054eb5": [
+      2819
+    ],
+    "f5700b38": [
+      5238
+    ],
+    "fbd08327": [
+      3501
+    ],
+    "fe96609c": [
+      1671
+    ],
+    "styles": [
+      2634,
+      3249,
+      4813,
+      5354,
+      5533,
+      6061,
+      6969,
+      7643,
+      8209,
+      8401,
+      8747,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "162": {
+      "js": [
+        {
+          "file": "assets/js/1e4f5a6a.7641919a.js",
+          "hash": "5b82043208937c01",
+          "publicPath": "/comunication_website/assets/js/1e4f5a6a.7641919a.js"
+        }
+      ]
+    },
+    "301": {
+      "js": [
+        {
+          "file": "assets/js/8fe22858.03f270c0.js",
+          "hash": "5ccd145b6d2dbb6e",
+          "publicPath": "/comunication_website/assets/js/8fe22858.03f270c0.js"
+        }
+      ]
+    },
+    "333": {
+      "js": [
+        {
+          "file": "assets/js/6c24bdb9.5f80f9dc.js",
+          "hash": "34a8859fcaceefa4",
+          "publicPath": "/comunication_website/assets/js/6c24bdb9.5f80f9dc.js"
+        }
+      ]
+    },
+    "751": {
+      "js": [
+        {
+          "file": "assets/js/1809d26b.a4983c73.js",
+          "hash": "33c3c9fad408b9e1",
+          "publicPath": "/comunication_website/assets/js/1809d26b.a4983c73.js"
+        }
+      ]
+    },
+    "1112": {
+      "js": [
+        {
+          "file": "assets/js/b537e041.9e4a4077.js",
+          "hash": "6f0ead729155dd7d",
+          "publicPath": "/comunication_website/assets/js/b537e041.9e4a4077.js"
+        }
+      ]
+    },
+    "1348": {
+      "js": [
+        {
+          "file": "assets/js/84db0f7f.7c2ad231.js",
+          "hash": "3eca436a760a7653",
+          "publicPath": "/comunication_website/assets/js/84db0f7f.7c2ad231.js"
+        }
+      ]
+    },
+    "1671": {
+      "js": [
+        {
+          "file": "assets/js/fe96609c.811f5a82.js",
+          "hash": "db70440f31c2f3e4",
+          "publicPath": "/comunication_website/assets/js/fe96609c.811f5a82.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.a2208070.css",
+          "hash": "51e129e2e28ec268",
+          "publicPath": "/comunication_website/assets/css/styles.a2208070.css"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.ae2ea13f.js",
+          "hash": "e7ec50a217487326",
+          "publicPath": "/comunication_website/assets/js/2237.ae2ea13f.js"
+        }
+      ]
+    },
+    "2371": {
+      "js": [
+        {
+          "file": "assets/js/3a9f0759.0726330b.js",
+          "hash": "1d2ef92460fa5ddf",
+          "publicPath": "/comunication_website/assets/js/3a9f0759.0726330b.js"
+        }
+      ]
+    },
+    "2440": {
+      "js": [
+        {
+          "file": "assets/js/d26e203e.1a9fc76f.js",
+          "hash": "a0a6d7121128e5a2",
+          "publicPath": "/comunication_website/assets/js/d26e203e.1a9fc76f.js"
+        }
+      ]
+    },
+    "2634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.2dc6e684.js",
+          "hash": "1e7be31b9afbf75f",
+          "publicPath": "/comunication_website/assets/js/c4f5d8e4.2dc6e684.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.95b2c2a1.js",
+          "hash": "653c43570fddc33b",
+          "publicPath": "/comunication_website/assets/js/9e4087bc.95b2c2a1.js"
+        }
+      ]
+    },
+    "2753": {
+      "js": [
+        {
+          "file": "assets/js/87b2fd61.99088b61.js",
+          "hash": "804980bc99928a5d",
+          "publicPath": "/comunication_website/assets/js/87b2fd61.99088b61.js"
+        }
+      ]
+    },
+    "2819": {
+      "js": [
+        {
+          "file": "assets/js/f5054eb5.8faef2ab.js",
+          "hash": "f45e0eec4dea7bfa",
+          "publicPath": "/comunication_website/assets/js/f5054eb5.8faef2ab.js"
+        }
+      ]
+    },
+    "2869": {
+      "js": [
+        {
+          "file": "assets/js/226b3bf3.112e21e3.js",
+          "hash": "f0c41bffef1e593b",
+          "publicPath": "/comunication_website/assets/js/226b3bf3.112e21e3.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.bb9ce022.js",
+          "hash": "4b8cb8624779c0a1",
+          "publicPath": "/comunication_website/assets/js/ccc49370.bb9ce022.js"
+        }
+      ]
+    },
+    "3250": {
+      "js": [
+        {
+          "file": "assets/js/04dd2977.ed8ec30c.js",
+          "hash": "7ac39c60f1214e72",
+          "publicPath": "/comunication_website/assets/js/04dd2977.ed8ec30c.js"
+        }
+      ]
+    },
+    "3406": {
+      "js": [
+        {
+          "file": "assets/js/3db5e0d4.f2abc257.js",
+          "hash": "689d6e5fb5f6f25f",
+          "publicPath": "/comunication_website/assets/js/3db5e0d4.f2abc257.js"
+        }
+      ]
+    },
+    "3501": {
+      "js": [
+        {
+          "file": "assets/js/fbd08327.ea6741b6.js",
+          "hash": "e7b7b66b98dcff7e",
+          "publicPath": "/comunication_website/assets/js/fbd08327.ea6741b6.js"
+        }
+      ]
+    },
+    "3771": {
+      "js": [
+        {
+          "file": "assets/js/362fff98.0e5919fe.js",
+          "hash": "63bd9d401b9eb0fd",
+          "publicPath": "/comunication_website/assets/js/362fff98.0e5919fe.js"
+        }
+      ]
+    },
+    "3922": {
+      "js": [
+        {
+          "file": "assets/js/b8316427.83edfc91.js",
+          "hash": "53e02fb82f03f8a6",
+          "publicPath": "/comunication_website/assets/js/b8316427.83edfc91.js"
+        }
+      ]
+    },
+    "3977": {
+      "js": [
+        {
+          "file": "assets/js/2099093f.1a379db4.js",
+          "hash": "c464ea524945de0a",
+          "publicPath": "/comunication_website/assets/js/2099093f.1a379db4.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.47cacf2c.js",
+          "hash": "9ad53ff4c4cab8d5",
+          "publicPath": "/comunication_website/assets/js/393be207.47cacf2c.js"
+        }
+      ]
+    },
+    "4160": {
+      "js": [
+        {
+          "file": "assets/js/74047e82.73904757.js",
+          "hash": "b483a5769c6cfc0d",
+          "publicPath": "/comunication_website/assets/js/74047e82.73904757.js"
+        }
+      ]
+    },
+    "4234": {
+      "js": [
+        {
+          "file": "assets/js/a71ad75c.05856445.js",
+          "hash": "2eec20c6824a0f08",
+          "publicPath": "/comunication_website/assets/js/a71ad75c.05856445.js"
+        }
+      ]
+    },
+    "4506": {
+      "js": [
+        {
+          "file": "assets/js/07d205cd.7b8b406e.js",
+          "hash": "02d2933c924ee114",
+          "publicPath": "/comunication_website/assets/js/07d205cd.7b8b406e.js"
+        }
+      ]
+    },
+    "4768": {
+      "js": [
+        {
+          "file": "assets/js/9770a6b9.63c65764.js",
+          "hash": "e6b08e60028df2b8",
+          "publicPath": "/comunication_website/assets/js/9770a6b9.63c65764.js"
+        }
+      ]
+    },
+    "4800": {
+      "js": [
+        {
+          "file": "assets/js/3638e510.097a82e2.js",
+          "hash": "c24579751af49e7a",
+          "publicPath": "/comunication_website/assets/js/3638e510.097a82e2.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.ecc1393e.js",
+          "hash": "d1a4243585314928",
+          "publicPath": "/comunication_website/assets/js/6875c492.ecc1393e.js"
+        }
+      ]
+    },
+    "4866": {
+      "js": [
+        {
+          "file": "assets/js/d5b421ab.d41fda3c.js",
+          "hash": "82364ec4fb2c080c",
+          "publicPath": "/comunication_website/assets/js/d5b421ab.d41fda3c.js"
+        }
+      ]
+    },
+    "4914": {
+      "js": [
+        {
+          "file": "assets/js/5994e9b4.3d5a6bf8.js",
+          "hash": "81211511858c4da4",
+          "publicPath": "/comunication_website/assets/js/5994e9b4.3d5a6bf8.js"
+        }
+      ]
+    },
+    "5154": {
+      "js": [
+        {
+          "file": "assets/js/c68bd2d6.89c06d15.js",
+          "hash": "8f7983ed1d1939c0",
+          "publicPath": "/comunication_website/assets/js/c68bd2d6.89c06d15.js"
+        }
+      ]
+    },
+    "5163": {
+      "js": [
+        {
+          "file": "assets/js/3c54f5fd.921d27b1.js",
+          "hash": "f65578257bf3753d",
+          "publicPath": "/comunication_website/assets/js/3c54f5fd.921d27b1.js"
+        }
+      ]
+    },
+    "5238": {
+      "js": [
+        {
+          "file": "assets/js/f5700b38.76ba9010.js",
+          "hash": "3e5c80606759cfc4",
+          "publicPath": "/comunication_website/assets/js/f5700b38.76ba9010.js"
+        }
+      ]
+    },
+    "5262": {
+      "js": [
+        {
+          "file": "assets/js/666606c6.0c72ffd0.js",
+          "hash": "46f5c0c47fed917a",
+          "publicPath": "/comunication_website/assets/js/666606c6.0c72ffd0.js"
+        }
+      ]
+    },
+    "5292": {
+      "js": [
+        {
+          "file": "assets/js/c64805f7.4173bce1.js",
+          "hash": "7b86f7e61ec57e68",
+          "publicPath": "/comunication_website/assets/js/c64805f7.4173bce1.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.ad7f5a35.js",
+          "hash": "da937d9402b015b0",
+          "publicPath": "/comunication_website/assets/js/runtime~main.ad7f5a35.js"
+        }
+      ]
+    },
+    "5488": {
+      "js": [
+        {
+          "file": "assets/js/a73e2d41.e7521f15.js",
+          "hash": "414c0de979b82bae",
+          "publicPath": "/comunication_website/assets/js/a73e2d41.e7521f15.js"
+        }
+      ]
+    },
+    "5533": {
+      "js": [
+        {
+          "file": "assets/js/5533.944907ad.js",
+          "hash": "993b973b6a9a6a93",
+          "publicPath": "/comunication_website/assets/js/5533.944907ad.js"
+        }
+      ]
+    },
+    "6040": {
+      "js": [
+        {
+          "file": "assets/js/21a7a34d.9ba3fe5d.js",
+          "hash": "c8a5feb5cd13b87a",
+          "publicPath": "/comunication_website/assets/js/21a7a34d.9ba3fe5d.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.42c45326.js",
+          "hash": "c2a10feadfeba91c",
+          "publicPath": "/comunication_website/assets/js/1f391b9e.42c45326.js"
+        }
+      ]
+    },
+    "6121": {
+      "js": [
+        {
+          "file": "assets/js/1076ae17.104af2c9.js",
+          "hash": "bb7cd934767f13c0",
+          "publicPath": "/comunication_website/assets/js/1076ae17.104af2c9.js"
+        }
+      ]
+    },
+    "6341": {
+      "js": [
+        {
+          "file": "assets/js/51af4da6.c08453a8.js",
+          "hash": "8c13e3f6521678e7",
+          "publicPath": "/comunication_website/assets/js/51af4da6.c08453a8.js"
+        }
+      ]
+    },
+    "6448": {
+      "js": [
+        {
+          "file": "assets/js/de34170c.a8a9db53.js",
+          "hash": "df83f3a743caef2b",
+          "publicPath": "/comunication_website/assets/js/de34170c.a8a9db53.js"
+        }
+      ]
+    },
+    "6934": {
+      "js": [
+        {
+          "file": "assets/js/e392cb6e.6a2866ed.js",
+          "hash": "660bd647cb285465",
+          "publicPath": "/comunication_website/assets/js/e392cb6e.6a2866ed.js"
+        }
+      ]
+    },
+    "6969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.b126efd1.js",
+          "hash": "b6e355d27f9a0d08",
+          "publicPath": "/comunication_website/assets/js/14eb3368.b126efd1.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.1bd8208c.js",
+          "hash": "50281bbfc5c015ca",
+          "publicPath": "/comunication_website/assets/js/a7bd4aaa.1bd8208c.js"
+        }
+      ]
+    },
+    "7340": {
+      "js": [
+        {
+          "file": "assets/js/00506a50.556db3ce.js",
+          "hash": "a61192aba3cbbba3",
+          "publicPath": "/comunication_website/assets/js/00506a50.556db3ce.js"
+        }
+      ]
+    },
+    "7367": {
+      "js": [
+        {
+          "file": "assets/js/61afdcd1.93fcd7d9.js",
+          "hash": "f511e37d0ac8bcd4",
+          "publicPath": "/comunication_website/assets/js/61afdcd1.93fcd7d9.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.ce5f190c.js",
+          "hash": "17f491bcc488154a",
+          "publicPath": "/comunication_website/assets/js/814f3328.ce5f190c.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.2f668272.js",
+          "hash": "b2a0fdf392ea7f69",
+          "publicPath": "/comunication_website/assets/js/a6aa9e1f.2f668272.js"
+        }
+      ]
+    },
+    "7876": {
+      "js": [
+        {
+          "file": "assets/js/50f6e340.94bd049b.js",
+          "hash": "bdcf0262e0c07259",
+          "publicPath": "/comunication_website/assets/js/50f6e340.94bd049b.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.0d6c2d79.js",
+          "hash": "defdcbdef09b551a",
+          "publicPath": "/comunication_website/assets/js/01a85c17.0d6c2d79.js"
+        }
+      ]
+    },
+    "8255": {
+      "js": [
+        {
+          "file": "assets/js/6f7875bc.eeb2d879.js",
+          "hash": "7ed83cfccfb3b69f",
+          "publicPath": "/comunication_website/assets/js/6f7875bc.eeb2d879.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.dad73a2b.js",
+          "hash": "bab6a8be8da97f3a",
+          "publicPath": "/comunication_website/assets/js/17896441.dad73a2b.js"
+        }
+      ]
+    },
+    "8581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.bc907cb5.js",
+          "hash": "ac9fcd2e5f85dc06",
+          "publicPath": "/comunication_website/assets/js/935f2afb.bc907cb5.js"
+        }
+      ]
+    },
+    "8747": {
+      "js": [
+        {
+          "file": "assets/js/8747.52a9a2ab.js",
+          "hash": "2505f47bacb32a9d",
+          "publicPath": "/comunication_website/assets/js/8747.52a9a2ab.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.1ea8341e.js",
+          "hash": "f87df3d0568a596f",
+          "publicPath": "/comunication_website/assets/js/main.1ea8341e.js"
+        }
+      ]
+    },
+    "8930": {
+      "js": [
+        {
+          "file": "assets/js/5bb75cfc.c76a4aca.js",
+          "hash": "a4de454443e035ae",
+          "publicPath": "/comunication_website/assets/js/5bb75cfc.c76a4aca.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.bdfcc1e4.js",
+          "hash": "d4de3b2501938678",
+          "publicPath": "/comunication_website/assets/js/a94703ab.bdfcc1e4.js"
+        }
+      ]
+    },
+    "9196": {
+      "js": [
+        {
+          "file": "assets/js/17538f56.8230a9f4.js",
+          "hash": "60cdb744760bed16",
+          "publicPath": "/comunication_website/assets/js/17538f56.8230a9f4.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.d5922ec1.js",
+          "hash": "00fdf3ac7c600351",
+          "publicPath": "/comunication_website/assets/js/5e95c892.d5922ec1.js"
+        }
+      ]
+    },
+    "9755": {
+      "js": [
+        {
+          "file": "assets/js/c4890ec4.668726bb.js",
+          "hash": "1a032f88b39be47b",
+          "publicPath": "/comunication_website/assets/js/c4890ec4.668726bb.js"
+        }
+      ]
+    }
+  }
+}

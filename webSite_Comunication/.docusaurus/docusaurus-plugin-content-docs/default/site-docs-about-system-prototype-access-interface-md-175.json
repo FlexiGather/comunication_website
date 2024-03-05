@@ -1,0 +1,26 @@
+{
+  "id": "about-system/prototype/access_interface",
+  "title": "Access Interface",
+  "description": "Progressive WebApp (PWA)",
+  "source": "@site/docs/about-system/prototype/access_interface.md",
+  "sourceDirName": "about-system/prototype",
+  "slug": "/about-system/prototype/access_interface",
+  "permalink": "/comunication_website/docs/about-system/prototype/access_interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kiosk Interface",
+    "permalink": "/comunication_website/docs/about-system/prototype/kiosk_interface"
+  },
+  "next": {
+    "title": "Management Interface",
+    "permalink": "/comunication_website/docs/about-system/prototype/management_interface"
+  }
+}

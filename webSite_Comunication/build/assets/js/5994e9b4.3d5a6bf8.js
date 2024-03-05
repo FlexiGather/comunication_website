@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[4914],{7274:e=>{e.exports=JSON.parse('{"label":"inception fase","permalink":"/comunication_website/blog/tags/inception-fase","allTagsPath":"/comunication_website/blog/tags","count":1,"unlisted":false}')}}]);

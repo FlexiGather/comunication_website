@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[1112],{8423:e=>{e.exports=JSON.parse('{"label":"milestones","permalink":"/comunication_website/blog/tags/milestones","allTagsPath":"/comunication_website/blog/tags","count":2,"unlisted":false}')}}]);

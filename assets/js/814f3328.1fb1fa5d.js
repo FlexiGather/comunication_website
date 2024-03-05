@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Milestone 2","permalink":"/blog/milestone 2","unlisted":false},{"title":"Milestone 1","permalink":"/blog/milestone 1","unlisted":false}]}')}}]);
