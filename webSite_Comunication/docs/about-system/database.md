@@ -11,10 +11,20 @@ Our use scenario will be a **Scouts Event**, so the theme will be related to thi
 
 ## DER - Entity-Relation Diagram
 
-![image](@site/static/img/DER.jpeg)
+![image](@site/static/img/der_database_managementEvents.png)
 
-<!-- ## MER - Entity-Relation Model -->
+## MER - Entity-Relation Model
 
-<!-- ![alt text](img/mer_database.png) -->
+### Events
+
+![image](@site/static/img/mer_database_events.png)
+
+### Infirmary
+
+![image](@site/static/img/mer_database_infirmary.png)
+
+### Scouts
+
+![image](@site/static/img/mer_database_scouts.png)
 
 > **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio).
