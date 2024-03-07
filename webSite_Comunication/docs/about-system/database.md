@@ -19,7 +19,7 @@ Our use scenario will be a **Scouts Event**, so the theme will be related to thi
 
 ![image](@site/static/img/mer_database_events.png)
 
-### Infirmary
+### Medical Center
 
 ![image](@site/static/img/mer_database_infirmary.png)
 

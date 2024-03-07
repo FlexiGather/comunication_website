@@ -20,19 +20,19 @@ We will separate the requirements by actors.
 - The participants can login and log out.
 <!-- - The entries and exits are recorded, as well as the check-in and check-out. -->
 - Allow the participants to enter and leave the premises.
-- The participants can be admitted to the infirmary.
+- The participants can be admitted to the medical center.
 - The participants can add money to their account.
 - The participants can buy a product.
-- The participants can return a product.
+- The participants can exchange a product.
 - The participants can raise their balance in the end of the event.
-- The participants can receive a notification from the infirmary.
+- The participants can receive a notification from the medical center.
 
 ### Medical Requirements
 
 - The medical staff has specialized accesses.
-- The medical staff can register a medical emergency, it will be implemented in the **medical interface**.
-- The medical staff can access participant's medical file.
-- The medical staff can access participant's medical history or concerns.
+- The medical staff can access the participant's pre-filled medical file.
+- The medical staff can create a new treatment file for a participant, it will be implemented in the **medical interface**.
+- The medical staff can access the participant's treatment file's history.
 - The medical staff can admit a pacient.
 
 ### Sales Requirements
@@ -74,15 +74,15 @@ We will separate the requirements by actors.
 
 **As a** Participant **I want** to raise my balance in the end of the event **so that** I can use that money outside the event.
 
-**As a** Participant **I want** to be admitted in the infirmary **so that** I can be treated if something is wrong.
+**As a** Participant **I want** to be admitted in the medical center **so that** I can be treated if something is wrong.
 
-**As a** Participant who is **Responsible** for other participant, **I want** to be notified when a participant arrives to the infirmary **so that** I can be able to follow what's going on.
+**As a** Participant who is **Responsible** for other participant, **I want** to be notified when a participant arrives to the medical center **so that** I can be able to follow what's going on.
 
 <!-- ![alt text](img/usecase_participants.png) -->
 
 ### Medical Staff
 
-**As a** Medical staff **I want** access the infirmary **so that** I can treat my pacients.
+**As a** Medical staff **I want** access the medical center **so that** I can treat my pacients.
 
 **As a** Medical staff **I want** admit a pacient **so that** I can treat him.
 
@@ -116,7 +116,7 @@ We will separate the requirements by actors.
 
 **As an** Administrator **I want** to offer workflow informations **so that** I can create reports and data analysis.
 
-**As an** Administrator **I want** update and replace the stock **so that** I can manage the stock at the Point of Sales and at the Infirmary.
+**As an** Administrator **I want** update and replace the stock **so that** I can manage the stock at the Point of Sales and at the medical center.
 
 ### Entrance Staff
 
@@ -141,13 +141,13 @@ Non-functional requirements are requirements related to the use of the applicati
 
 - The system should handle large volumes of audiences (data capacity).
 - After a money top-up/load, the money must be available in the participants' account in less than 5 seconds (throughput).
-- The system should warn the responsibles chiefs in less than 3 seconds whenever a child on their charge entries in the infirmary (response time).
+- The system should warn the responsibles chiefs in less than 3 seconds whenever a child on their charge entries in the medical center (response time).
 
 ### Security
 - Only sales staff can load up cash into someones account.
 - Only sales staff can make a sale or exchange.
 - Only medical staff can have access to the participants health information.
-- Only medical staff can have access to the infirmary premises.
+- Only medical staff can have access to the medical center premises.
 - Only medical staff can treat the participants.
 
 > **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio).
