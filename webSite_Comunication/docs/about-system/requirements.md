@@ -73,7 +73,7 @@ We will separate the requirements by actors.
 **As a** Participant **I want** to be admitted in the infirmary **so that** I can be treated if something is wrong.
 **As a** Participant who is **Responsible** for other participant, **I want** to be notified when a participant arrives to the infirmary **so that** I can be able to follow what's going on.
 
-![alt text](img/usecase_participants.png)
+<!-- ![alt text](img/usecase_participants.png) -->
 
 ### Medical Staff
 
@@ -82,7 +82,7 @@ We will separate the requirements by actors.
 **As a** Medical staff **I want** to regist a medical emergency **so that** I can create a pacient's treatments file.
 **As a** Medical staff **I want** access the list of allergies or concerns of a pacient **so that** I can make the best decisioins and give him the best treatments.
 
-![alt text](img/usecase_medicalstaff.png)
+<!-- ![alt text](img/usecase_medicalstaff.png) -->
 
 ### Sales Staff
 
@@ -92,7 +92,7 @@ We will separate the requirements by actors.
 **As a** Sales staff of the Loading Point **I want** to be able to read the participant identification **so that** I can load money in his account, exchanging the physical money.
 **As a** Sales staff of the Loading Point **I want** to return the remaining balance of the participants **so that** they can have the money that belongs to them.
 
-![alt text](img/usecase_salesstaff.png)
+<!-- ![alt text](img/usecase_salesstaff.png) -->
 
 ### Administration
 
@@ -108,7 +108,7 @@ We will separate the requirements by actors.
 **As an** Entrance Staff **I want** to check-in and check-out the participants **so that** I can assure the participants' security.
 
 
-![alt text](img/usecase_administration.png)
+<!-- ![alt text](img/usecase_administration.png) -->
 
 ## Non-functional Requirements
 
