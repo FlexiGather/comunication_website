@@ -67,10 +67,15 @@ We will separate the requirements by actors.
 ### Participants
 
 **As a** Participant **I want** to login in my account **so that** I can access my personal information.
+
 **As a** Participant **I want** to see how much money do I have in my account **so that** I can buy something at the sales point.
+
 **As a** Participant **I want** add money in my account **so that** I can use that money at the event.
+
 **As a** Participant **I want** to raise my balance in the end of the event **so that** I can use that money outside the event.
+
 **As a** Participant **I want** to be admitted in the infirmary **so that** I can be treated if something is wrong.
+
 **As a** Participant who is **Responsible** for other participant, **I want** to be notified when a participant arrives to the infirmary **so that** I can be able to follow what's going on.
 
 <!-- ![alt text](img/usecase_participants.png) -->
@@ -78,8 +83,11 @@ We will separate the requirements by actors.
 ### Medical Staff
 
 **As a** Medical staff **I want** access the infirmary **so that** I can treat my pacients.
+
 **As a** Medical staff **I want** admit a pacient **so that** I can treat him.
+
 **As a** Medical staff **I want** to regist a medical emergency **so that** I can create a pacient's treatments file.
+
 **As a** Medical staff **I want** access the list of allergies or concerns of a pacient **so that** I can make the best decisioins and give him the best treatments.
 
 <!-- ![alt text](img/usecase_medicalstaff.png) -->
@@ -87,9 +95,13 @@ We will separate the requirements by actors.
 ### Sales Staff
 
 **As a** Sales staff of the Point of Sale **I want** to sale a product **so that** I can recieve money.
+
 **As a** Sales staff of the Point of Sale **I want** to exchange a product **so that** I can match the participants' wishes.
+
 **As a** Sales staff of the Point of Sale **I want** to check the stock of the products **so that** I can manage remaining products.
+
 **As a** Sales staff of the Loading Point **I want** to be able to read the participant identification **so that** I can load money in his account, exchanging the physical money.
+
 **As a** Sales staff of the Loading Point **I want** to return the remaining balance of the participants **so that** they can have the money that belongs to them.
 
 <!-- ![alt text](img/usecase_salesstaff.png) -->
@@ -97,14 +109,19 @@ We will separate the requirements by actors.
 ### Administration
 
 **As an** Administrator **I want** to regist the participants and staff **so that** I can have access to their data.
+
 **As an** Administrator **I want** to regist the participants and staff **so that** I can presented them in the system as participants with a unique identification.
+
 **As an** Administrator **I want** to manage all the event **so that** I can know what's going on and to make the best decisions in case of an emergency.
+
 **As an** Administrator **I want** to offer workflow informations **so that** I can create reports and data analysis.
+
 **As an** Administrator **I want** update and replace the stock **so that** I can manage the stock at the Point of Sales and at the Infirmary.
 
 ### Entrance Staff
 
 **As an** Entrance Staff **I want** to regist the entries and exits of the participants **so that** I can manage the access of the participants.
+
 **As an** Entrance Staff **I want** to check-in and check-out the participants **so that** I can assure the participants' security.
 
 

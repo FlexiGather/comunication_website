@@ -13,13 +13,13 @@ One of the reasons why she's not so active at large scout events is the lack of 
 
 **_Motivation:_** Enhanced Participation and Security
 
-    Matilde express her interests, concerns, and preferences, enabling event organizers to create a safer and more inclusive environment that encourages active participation from all scouts.
+```Matilde express her interests, concerns, and preferences, enabling event organizers to create a safer and more inclusive environment that encourages active participation from all scouts.```
 
 **Tiago Correia** is an university student that has 20 years old and is a senior patrol leader in his scout troop. One of his main goals is to  Ensure his troop members have a fulfilling experience during the event, coordinate activities, and foster teamwork. However, managing logistics for his troop, coordinating with other troop leaders, handling unexpected changes or emergencies during the event is a full time job that needs a really goog management and coordination beetween every part of the event.
 
 **_Motivation:_** Improved Event Management and Coordination
 
-    Tiago's input helps streamline logistics, anticipate potential issues, and implement effective contingency plans, ultimately enhancing the overall event experience for troop members under his leadership.
+```Tiago's input helps streamline logistics, anticipate potential issues, and implement effective contingency plans, ultimately enhancing the overall event experience for troop members under his leadership.```
 
 ### Responsible (Scout Chief):
 
@@ -28,7 +28,7 @@ Although managing registrations and payments, coordinating with event staff and 
 
 **_Motivation:_** Efficient Event Execution and Support
 
-    Bernardo contributes to the successful execution of the event by providing valuable insights into the responsibilities and pressures faced by scout chiefs.
+```Bernardo contributes to the successful execution of the event by providing valuable insights into the responsibilities and pressures faced by scout chiefs.```
 
 ### Medical Staff (medical emergencies):
 
@@ -38,7 +38,7 @@ The medical volunteering is a bit complicated because it is need to ensure that 
 
 **_Motivation:_** Optimal Medical Support and Preparedness
 
-    Dr. Manuela communicates her expertise and requirements as a medical volunteer, ensuring that event organizers are equipped to provide adequate medical support during the event.
+```Dr. Manuela communicates her expertise and requirements as a medical volunteer, ensuring that event organizers are equipped to provide adequate medical support during the event.```
 
 ### Sales Staff (for merchandise):
 
@@ -47,7 +47,7 @@ He wouldn't be able to manage inventory and sales transactions and coordinating 
 
 **_Motivation:_** Effective Fundraising and Merchandise Management
 
-    Afonso's input helps maximize fundraising efforts, enhance the visibility of scout merchandise, and streamline sales transactions, ultimately supporting troop activities and projects.
+```Afonso's input helps maximize fundraising efforts, enhance the visibility of scout merchandise, and streamline sales transactions, ultimately supporting troop activities and projects.```
 
 ### Entrance Staff (for managing check-ins and access control):
 
@@ -56,7 +56,7 @@ If the registration was made by tickets he would need to manage long queues duri
 
 **_Motivation:_** Seamless Check-in Process and Guest Experience
 
-    António highlights the challenges and requirements associated with managing event registrations and access control with tickets and slow verifications.
+```António highlights the challenges and requirements associated with managing event registrations and access control with tickets and slow verifications.```
 
 ### Administrators (to manage the overall event logistics and administration):
 
@@ -64,7 +64,7 @@ If the registration was made by tickets he would need to manage long queues duri
 
 **_Motivation:_** Smooth Event Logistics and Communication
 
-    José contributes to the effective functioning of the FlexiGather platform, which is crucial for managing event logistics, registrations, and communication.
+```José contributes to the effective functioning of the FlexiGather platform, which is crucial for managing event logistics, registrations, and communication.```
 
 ## Main Scenarios
 
