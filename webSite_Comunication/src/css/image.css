@@ -1,14 +1,14 @@
-img {
-    max-width: 8rem;
-    height: auto;
-}
-
 .persona {
     display: flex;
     justify-content: center;
     div {
         margin-left: 2rem;
         display: flex;
+        flex-direction: column;
         align-items: center;
+    }
+    img {
+        max-width: 8rem;
+        height: auto;
     }
 }

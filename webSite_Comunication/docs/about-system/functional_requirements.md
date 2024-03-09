@@ -62,7 +62,7 @@ We will separate the requirements by actors.
 - Offer workflow informations.
 - Update and replace product stock.
 
-### Entrance Requirements (staff at the entrance to the event)
+### Entrance Requirements (staff at the entrance of the event)
 
 - The entrance staff can login and logout.
 - Record entries of the participants.
