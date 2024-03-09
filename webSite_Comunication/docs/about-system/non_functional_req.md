@@ -2,8 +2,7 @@
 sidebar_position: 3
 ---
 
-# Requirements
-## Non-functional Requirements
+# Non-functional Requirements
 
 Non-functional requirements are requirements related to the use of the application in terms of performance, usability, reliability, security, availability, maintenance and the technologies involved. These requirements concern how the functionalities will be delivered to the software user.
 

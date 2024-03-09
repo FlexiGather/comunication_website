@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Requirements
+# Functional Requirements
 
 Since the FlexiGather is a big system we will have many actors. The main actors are the **participants**, the **medical, sales and entrance staff** and the **administrators**.
 
@@ -62,7 +62,7 @@ We will separate the requirements by actors.
 - Offer workflow informations.
 - Update and replace product stock.
 
-### Entrance Requirements (staff at the entrance to the event)
+### Entrance Requirements (staff at the entrance of the event)
 
 - The entrance staff can login and logout.
 - Record entries of the participants.
