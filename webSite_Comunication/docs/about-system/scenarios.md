@@ -7,8 +7,6 @@ sidebar_position: 5
 ## Personas
 
 ### Participants (Scouts):
-
-## Faltam fotos em todos é necessário nas personas!
     
 <!-- <div  style={{ textAlign: 'justify' }} > -->
 
@@ -102,9 +100,9 @@ Work in progress...
 
 Tiago wants to check how much money he has in his account. He accesses the user interface via his mobile phone, enters his details (if he's not logged in) and accesses his digital wallet to see his balance.
 
-> Task 1: Access the user application.
-> Task 2: Access the digital wallet.
-> Task 3: Check his balance.
+- Task 1: Access the user application.
+- Task 2: Access the digital wallet.
+- Task 3: Check his balance.
 
 <br />
 
@@ -113,9 +111,9 @@ Tiago wants to check how much money he has in his account. He accesses the user 
 Bernardo, a Scout Chief, is responsible for some of the younger scouts.
 The Scout Chief is on an activity with a group of scouts, but not all of those he is responsible for are in the team he is guiding. One of his charges gets hurt and has to be sent to the infirmary. When the little scout enters the medical center, a notification of entry to the infirmary is sent to his guardian. Bernardo can access the scout's data and see who is in the infirmary.
 
-> Task 1: Access his user application.
-> Task 2: Click on the notification received.
-> Task 3: Observe and check the data shown in the notification details.
+- Task 1: Access his user application.
+- Task 2: Click on the notification received.
+- Task 3: Observe and check the data shown in the notification details.
 
 <br />
 
@@ -123,10 +121,10 @@ The Scout Chief is on an activity with a group of scouts, but not all of those h
 
 Dr Manuela Santos receives a patient at the medical center. The doctor wants to access the patient's medical file to see if he has any more fragile medical conditions.
 
-> Task 1: Access the medical interface by logging in.
-> Task 2: Enter the patient's name into the system and search for the patient's details.
-> Task 3: Click on the button to view details of the medical file.
-> Task 4: Access the medical file and read what she is looking for.
+- Task 1: Access the medical interface by logging in.
+- Task 2: Enter the patient's name into the system and search for the patient's details.
+- Task 3: Click on the button to view details of the medical file.
+- Task 4: Access the medical file and read what she is looking for.
 
 <br />
 
@@ -134,11 +132,11 @@ Dr Manuela Santos receives a patient at the medical center. The doctor wants to 
 
 Dr Manuela Santos receives a patient at the medical center. The doctor wants to create a medical emergency treatment file.
 
-> Task 1: Access the medical interface by logging in.
-> Task 2: Enter the patient's name into the system and search for the patient's details.
-> Task 3: Click on the button to add a new medical emergency.
-> Task 4: Complete the treatment information and observations.
-> Task 5: Complete and save the treatment file.
+- Task 1: Access the medical interface by logging in.
+- Task 2: Enter the patient's name into the system and search for the patient's details.
+- Task 3: Click on the button to add a new medical emergency.
+- Task 4: Complete the treatment information and observations.
+- Task 5: Complete and save the treatment file.
 
 <br />
 
@@ -146,12 +144,12 @@ Dr Manuela Santos receives a patient at the medical center. The doctor wants to 
 
 Afonso wants to sell a shirt to one of the scouts, as he is part of the sales staff and is at a sales point.
 
-> Task 1: Access the kiosk interface with his details and specialised access.
-> Task 2: Read the scout's identification.
-> Task 3: Select the "Produtos" tab.
-> Task 4: Choose the product he wants to sell.
-> Task 5: Select the sales quantity (by pressing the sales button one or more times).
-> Task 6: Click on the "Vender" button (and the price is taken from the scout's account).
+- Task 1: Access the kiosk interface with his details and specialised access.
+- Task 2: Read the scout's identification.
+- Task 3: Select the "Produtos" tab.
+- Task 4: Choose the product he wants to sell.
+- Task 5: Select the sales quantity (by pressing the sales button one or more times).
+- Task 6: Click on the "Vender" button (and the price is taken from the scout's account).
 
 <br />
 
@@ -159,11 +157,11 @@ Afonso wants to sell a shirt to one of the scouts, as he is part of the sales st
 
 Afonso wants to top up the account of one of the scouts, as he is part of the sales team and is at a loading point.
 
-> Task 1: Access the kiosk interface with his details and specialised access.
-> Task 2: Read the scout's identification.
-> Task 3: Select the "Carregamentos" tab.
-> Task 4: Enter the amount of money the scout wants to load his account with.
-> Task 6: Click on the "Carregar" button (and exchange the amount added for physical money that will be stored in the box).
+- Task 1: Access the kiosk interface with his details and specialised access.
+- Task 2: Read the scout's identification.
+- Task 3: Select the "Carregamentos" tab.
+- Task 4: Enter the amount of money the scout wants to load his account with.
+- Task 6: Click on the "Carregar" button (and exchange the amount added for physical money that will be stored in the box).
 
 <br />
 
@@ -171,9 +169,9 @@ Afonso wants to top up the account of one of the scouts, as he is part of the sa
 
 António has a shift from 9am to 3pm at the entrance of the event. He accesses the access application to register the scouts' entries and registers Matilde's entry.
 
-Task 1: Access the access interface with his details.
-Task 2: Click on the "Registar Entrada" button.
-Task 3: Read the Matilde's identification.
-Task 4: Check the scout's details on the access platform.
+- Task 1: Access the access interface with his details.
+- Task 2: Click on the "Registar Entrada" button.
+- Task 3: Read the Matilde's identification.
+- Task 4: Check the scout's details on the access platform.
 
 <!-- r -->
