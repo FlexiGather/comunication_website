@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 ---
+import img from '@site/src/css/image.css'
 
 # Scenarios and Personas
 
@@ -10,11 +11,15 @@ sidebar_position: 5
     
 <!-- <div  style={{ textAlign: 'justify' }} > -->
 
-![image](@site/static/img/persona_Matilde.png)
+<div class="persona">
+    ![image](@site/static/img/persona_Matilde.png)
+    <div>
+        **Matilde Almeida** is an adventurous 9th grade scout that has 14 years old. Matilde is an active member of her local scout troop and for that reason she likes to participate in diverse activities during the scouts event to learn new skills, make friends, and earn badges.
+    However, she's not so active at large scout events because of her parents' concerns for her safety and a desire to shield her from potential confusion and untoward incidents that might unfold in such expansive gatherings. 
+    One of the reasons why she's not so active at large scout events is the lack of security and some limited access to information about event security and policies.
+    </div>
+</div>
 
-**Matilde Almeida** is an adventurous 9th grade scout that has 14 years old. Matilde is an active member of her local scout troop and for that reason she likes to participate in diverse activities during the scouts event to learn new skills, make friends, and earn badges.
-However, she's not so active at large scout events because of her parents' concerns for her safety and a desire to shield her from potential confusion and untoward incidents that might unfold in such expansive gatherings. 
-One of the reasons why she's not so active at large scout events is the lack of security and some limited access to information about event security and policies.
 
 > **_Motivation:_** She really want something that she can use to show her parents that the events are safe and very well organized, so they would let her participate in all types of events, pursuing what she loves so much.
 

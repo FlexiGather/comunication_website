@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Requirements
+# Functional Requirements
 
 Since the FlexiGather is a big system we will have many actors. The main actors are the **participants**, the **medical, sales and entrance staff** and the **administrators**.
 
