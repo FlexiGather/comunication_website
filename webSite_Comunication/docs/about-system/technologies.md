@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 # Technologies
@@ -15,5 +15,3 @@ This section lists the different technologies we use and how they are used.
 | ASP.NET Core | Frontend and connection with Database |
 | Docusaurus | Communication Plan |
 | Google Slides | Presentations |
-<!-- 
-## List of languages -->
