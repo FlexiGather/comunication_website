@@ -10,7 +10,7 @@ sidebar_position: 5
 
 ## Faltam fotos em todos é necessário nas personas!
     
-<div  style={{ textAlign: 'justify' }} >
+<!-- <div  style={{ textAlign: 'justify' }} > -->
 
 ![image](@site/static/img/persona_Matilde.png)
 

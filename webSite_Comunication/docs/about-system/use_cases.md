@@ -25,6 +25,8 @@ The use cases will be presented between the different user stories.
 
 ![image](@site/static/img/usecase_userInterface.png)
 
+<br />
+
 ### Medical Staff
 
 **As a** Medical staff **I want** to access the medical center interface **so that** I can treat my patients.
@@ -36,6 +38,8 @@ The use cases will be presented between the different user stories.
 **As a** Medical staff **I want** to access the participants medical file **so that** I can make the best decisions and give him the best treatments.
 
 ![image](@site/static/img/usecase_medicalInterface.png)
+
+<br />
 
 ### Sales Staff
 
@@ -50,6 +54,8 @@ The use cases will be presented between the different user stories.
 **As a** Sales staff of the Loading Point **I want** to return the remaining balance of the participants **so that** they can have the money that belongs to them.
 
 ![image](@site/static/img/usecase_kioskInterface.png)
+
+<br />
 
 ### Administration
 
@@ -73,7 +79,7 @@ The use cases will be presented between the different user stories.
 
 ![image](@site/static/img/usecase_managementInterface.png)
 
-<br>
+<br />
 
 ![image](@site/static/img/usecase_dashboard.png)
 
