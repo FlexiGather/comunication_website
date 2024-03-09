@@ -1,7 +1,7 @@
 .persona {
     display: flex;
     justify-content: center;
-    div {
+    .persona__info {
         margin-left: 2rem;
         display: flex;
         flex-direction: column;
