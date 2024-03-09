@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+import '@site/src/css/image2.css'
+
 # User Stories and Use Cases
 
 The main actors are the **participants**, the **medical, sales and entrance staff** and the **administrators** so we divided the user stories by the actors.
