@@ -7,8 +7,8 @@
         flex-direction: column;
         align-items: center;
     }
-    img {
-        max-width: 8rem;
-        height: auto;
-    }
+}
+
+.persona_img {
+    max-height: 15rem;
 }
