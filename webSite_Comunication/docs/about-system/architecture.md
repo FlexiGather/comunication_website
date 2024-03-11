@@ -6,7 +6,7 @@ sidebar_position: 6
 
 The architecture of our system can be illustrated through the following diagram.
 
-![image](@site/static/img/arquitetura_sf.png)
+![image](@site/static/img/arquitetura_m.png)
 
 Our database is implemented in **SQL** and our frontend and the connections will be implemented with **ASP.NET Core** that uses HTML and C# dependencies.
 
