@@ -133,8 +133,6 @@ Although managing registrations and payments, coordinating with event staff and 
 
 ## Main Scenarios and their tasks
 
-Work in progress...
-
 ### Scenario 1
 
 Tiago wants to check how much money he has in his account. He accesses the user interface via his mobile phone, enters his details (if he's not logged in) and accesses his digital wallet to see his balance.
