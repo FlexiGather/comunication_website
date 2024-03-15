@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[8661],{3710:e=>{e.exports=JSON.parse('{"label":"mid-term presentation with supervisors","permalink":"/comunication_website/blog/tags/mid-term-presentation-with-supervisors","allTagsPath":"/comunication_website/blog/tags","count":1,"unlisted":false}')}}]);
