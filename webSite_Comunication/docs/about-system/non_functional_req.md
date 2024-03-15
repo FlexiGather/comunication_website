@@ -25,11 +25,17 @@ Non-functional requirements are requirements related to the use of the applicati
 - Only medical ad administration staff can have access to the participants health information.
 - Only medical and administration staff can have access to the medical center area.
 - Only medical staff can create and fill a new treatment file for a participant.
+- HTTPS protocol will be used to ensure the security of the data.
+
 
 ### Availability
 
-- All the interfaces (except the kiosk) should be available 24/7, this including during the night.
+- All the interfaces (except the kiosk) should be available 24/7.
 - If the system crashes, the data should not be lost.
 <!-- - If the system crashes, it should be able to recover the data in less than 5 minutes. -->
+
+
+### Responsiveness
+- The system should be responsive to different devices (smartphones, tablets, computers) since we will be using *Bootstrap*.
 
 <!-- r -->

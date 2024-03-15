@@ -14,6 +14,7 @@ We will separate the requirements by actors.
 ### Participants Requirements
 
 - The participants will have access to their data, such as personal info and balance, it will be implemented in the **user interface**.
+- The participants will have access to their account movements.
 - The participants can login and logout.
 - Allow the participants to enter and leave the premises.
 - The participants can be admitted to the medical center.
