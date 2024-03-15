@@ -10,7 +10,14 @@ Additionally, to facilitate the interaction between the database and the rest of
 
 After creating the models, the entire system is based on the Model-View-Controller (MVC) architecture. The model represents the data, the controller processes all user interactions, and the view presents the user interface.
 
-![image](@site/static/img/arquitetura_m.png)
+<!-- Imagem antiga da arquitetura -->
+<!-- ![image](@site/static/img/arquitetura_m.png) -->
+
+<!-- Imagem mais legivel -->
+![image](@site/static/img/arquitetura_melhorada_m.png)
+
+<!-- Imagem com improves do canadiano -->
+<!-- ![image](@site/static/img/Arquitetura_Canadiano_m.png) -->
 
 Our database is implemented in **SQL Server**, the connections will be implemented with **Entity Framework PowerTools** from **ASP.NET Core** and the frontend using **HTML**, **CSS**, **Bootstrap** and **C#** dependencies.
 
