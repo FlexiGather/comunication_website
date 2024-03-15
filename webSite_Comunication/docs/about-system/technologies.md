@@ -13,5 +13,6 @@ This section lists the different technologies we use and how they are used.
 | Github | Code Repository |
 | Notion | Calendar Project |
 | ASP.NET Core | Frontend and connection with Database |
+| SQL Server | Database |
 | Docusaurus | Communication Plan |
 | Google Slides | Presentations |
