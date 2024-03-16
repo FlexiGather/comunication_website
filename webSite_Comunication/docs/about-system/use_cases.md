@@ -23,7 +23,7 @@ The use cases will be presented between the different user stories.
 
 **As a** Participant who is **Responsible** for other participants, **I want** to be notified when a participant I'm responsible for arrives to the medical center **so that** I can be able to follow what's going on.
 
-![image](@site/static/img/usecase_userInterface.png)
+![image](@site/static/img/useCases/usecase_userInterface.png)
 
 <br />
 
@@ -37,7 +37,7 @@ The use cases will be presented between the different user stories.
 
 **As a** Medical staff **I want** to access the participants medical file **so that** I can make the best decisions and give him the best treatments.
 
-![image](@site/static/img/usecase_medicalInterface.png)
+![image](@site/static/img/useCases/usecase_medicalInterface.png)
 
 <br />
 
@@ -53,7 +53,7 @@ The use cases will be presented between the different user stories.
 
 **As a** Sales staff of the Loading Point **I want** to return the remaining balance of the participants **so that** they can have the money that belongs to them.
 
-![image](@site/static/img/usecase_kioskInterface.png)
+![image](@site/static/img/useCases/usecase_kioskInterface.png)
 
 <br />
 
@@ -77,18 +77,18 @@ The use cases will be presented between the different user stories.
 
 **As an** Administrator **I want** update and replace the stock **so that** I can manage the stock at the Point of Sales.
 
-![image](@site/static/img/usecase_managementInterface.png)
+![image](@site/static/img/useCases/usecase_managementInterface.png)
 
 <br />
 
-![image](@site/static/img/usecase_dashboard.png)
+![image](@site/static/img/useCases/usecase_dashboard.png)
 
 ### Entrance Staff
 
 **As an** Entrance Staff **I want** to regist the entries and exits of the participants **so that** I can manage the access of the participants.
 
 
-![image](@site/static/img/usecase_accessInterface.png)
+![image](@site/static/img/useCases/usecase_accessInterface.png)
 
 > **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio).
 
