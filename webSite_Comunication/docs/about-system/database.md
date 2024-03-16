@@ -27,4 +27,8 @@ Our use scenario will be a **Scouts Event**, so the theme will be related to thi
 
 ![image](@site/static/img/BD/mer_database_scouts.png)
 
+## DOM - Domain Model
+
+![image](@site/static/img/BD/DOM.png)
+
 > **_note:_**  All the diagrams were made using [Microsoft-Visio](https://www.microsoft365.com/launch/visio).
