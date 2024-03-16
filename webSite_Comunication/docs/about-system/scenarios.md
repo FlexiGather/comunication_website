@@ -2,13 +2,13 @@
 sidebar_position: 5
 ---
 import '@site/static/css/image.css'
-import PersonaMatilde from '@site/static/img/persona_Matilde.png';
-import PersonaTiago from '@site/static/img/persona_Tiago.png';
-import PersonaBernardo from '@site/static/img/persona_Bernardo.png';
-import PersonaManuela from '@site/static/img/persona_drManuela.png';
-import PersonaAfonso from '@site/static/img/persona_Afonso.png';
-import PersonaAntonio from '@site/static/img/persona_Antonio.png';
-import PersonaJose from '@site/static/img/persona_Jose.png';
+import PersonaMatilde from '@site/static/img/Personas/persona_Matilde.png';
+import PersonaTiago from '@site/static/img/Personas/persona_Tiago.png';
+import PersonaBernardo from '@site/static/img/Personas/persona_Bernardo.png';
+import PersonaManuela from '@site/static/img/Personas/persona_drManuela.png';
+import PersonaAfonso from '@site/static/img/Personas/persona_Afonso.png';
+import PersonaAntonio from '@site/static/img/Personas/persona_Antonio.png';
+import PersonaJose from '@site/static/img/Personas/persona_Jose.png';
 
 # Personas and Scenarios
 
