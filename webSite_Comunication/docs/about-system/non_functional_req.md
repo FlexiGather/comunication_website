@@ -9,7 +9,6 @@ Non-functional requirements are requirements related to the use of the applicati
 ### Functionality
 
 - The system should be able to read QRcodes.
-<!-- (nfc bracelets) -->
 - The system should allow the use of more than one browser.
 
 ### Performance
