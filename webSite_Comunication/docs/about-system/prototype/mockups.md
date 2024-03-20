@@ -9,19 +9,23 @@ sidebar_position: 1
 ![image](@site/static/img/mockUps/access.png)
 
 ### - User Interface
-![image](@site/static/img/mockUps/userInterface1.png)
-![image](@site/static/img/mockUps/userInterface2.png)
+![image](@site/static/img/mockUps/UserInterface/userInterface1.png)
+![image](@site/static/img/mockUps/UserInterface/userInterface2.png)
 
 ### - Kiosk Interface
-<div style={{width: '25rem'}}>
-![image](@site/static/img/mockUps/kiosk-interface.png)
-</div>
+![image](@site/static/img/mockUps/KioskInterface/kiosk1.png)
+![image](@site/static/img/mockUps/KioskInterface/kiosk2.png)
+![image](@site/static/img/mockUps/KioskInterface/kiosk3.png)
+![image](@site/static/img/mockUps/KioskInterface/kiosk4.png)
+![image](@site/static/img/mockUps/KioskInterface/kiosk5.png)
+![image](@site/static/img/mockUps/KioskInterface/kiosk6.png)
 
 ### - Management Interface
 ![image](@site/static/img/mockUps/management.png)
 
 ### - Medical Center Interface
-![image](@site/static/img/mockUps/medical1.png)
-![image](@site/static/img/mockUps/medical2.png)
+![image](@site/static/img/mockUps/MedicalInterface/medical-interface-1.png)
+![image](@site/static/img/mockUps/MedicalInterface/medical-interface-2.png)
+![image](@site/static/img/mockUps/MedicalInterface/medical-interface-3.png)
 
 
