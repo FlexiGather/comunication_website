@@ -5,11 +5,13 @@ sidebar_position: 2
 # User Interface
 ### Progressive WebApp (PWA)
 
-Work in progress...
+The user interface will be used by the participants. Participants will be able to access their personal data and check their balance. This money will enable purchases within the event without the need to exchange and hold physical money.
 
-<!-- The user interface will be used by the participants. Participants will be able to access their personal data and top up their account with money. This money will enable purchases within the event without the need to exchange and hold physical money.
+![alt text](@site/static/img/Prototype/UserInterface/UserInterfacePrototype1.png)
 
-<!-- ![alt text](img/userInterfacePersonalData.png) -->
+![alt text](@site/static/img/Prototype/UserInterface/UserInterfacePrototype2.png)
+
+![alt text](@site/static/img/Prototype/UserInterface/UserInterfacePrototype3.png)
 
 <!-- ![alt text](img/userInterfaceMoneyAccount.png) -->
 
@@ -17,4 +19,4 @@ Work in progress...
 
 <!-- ![alt text](img/userInterfaceInfirmaryNotification.png) -->
 
-<!-- > **_note:_**  All prototype was made using [Figma](https://www.figma.com).  -->
+**_note:_**  All prototype was made using [Figma](https://www.figma.com). 
