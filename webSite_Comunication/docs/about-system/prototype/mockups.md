@@ -23,6 +23,8 @@ sidebar_position: 1
 ### - Management Interface
 ![image](@site/static/img/mockUps/management.png)
 
+<!-- ### - DashBoard Interface -->
+
 ### - Medical Center Interface
 ![image](@site/static/img/mockUps/MedicalInterface/medical-interface-1.png)
 ![image](@site/static/img/mockUps/MedicalInterface/medical-interface-2.png)
