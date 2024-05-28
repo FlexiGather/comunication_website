@@ -1,0 +1,8 @@
+{
+  "label": "Final Interfaces",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "This section will represent the final system as a whole, including 6 final interfaces. The user interface, the kiosk interface and the access interface will be Progressive WebApps (PWAs). The management interface, the medical interface and the dashboard will be developed to be Websites."
+  }
+}
