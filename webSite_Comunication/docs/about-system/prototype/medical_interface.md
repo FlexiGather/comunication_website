@@ -5,8 +5,6 @@ sidebar_position: 5
 # Medical Interface
 ### Website
 
-Work in progress...
-
 This interface will only be used by the staff that has **medical access**.
 This interface will be used to regist medical emergencies that occur during the event.
 The doctor or the nurse will create a **medical file** of the emergency and regist in the medical platform the observations of the treatment or what has happened.

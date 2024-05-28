@@ -1,6 +1,7 @@
 ---
 title: About us
 full_width: true
+sidebar_position: 4
 ---
 
 import Text_Color from '@site/src/components/Text_Color'
