@@ -82,6 +82,11 @@ const config = {
             position: 'left'
           },
           {
+            to: '/docs/students_at_deti',
+            label: 'Students@DETI',
+            position: 'left'
+          },
+          {
             href: 'https://github.com/FlexiGather',
             label: 'GitHub',
             position: 'right',
