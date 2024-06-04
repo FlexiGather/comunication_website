@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb_site_comunication=self.webpackChunkweb_site_comunication||[]).push([[6793],{3661:e=>{e.exports=JSON.parse('{"label":"prototype","permalink":"/comunication_website/blog/tags/prototype","allTagsPath":"/comunication_website/blog/tags","count":1,"unlisted":false}')}}]);

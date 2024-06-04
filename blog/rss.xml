@@ -4,10 +4,25 @@
         <title>FlexiGather Blog</title>
         <link>https://FlexiGather.github.io/comunication_website/blog</link>
         <description>FlexiGather Blog</description>
-        <lastBuildDate>Tue, 16 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Milestone 4]]></title>
+            <link>https://FlexiGather.github.io/comunication_website/blog/milestone 4</link>
+            <guid>https://FlexiGather.github.io/comunication_website/blog/milestone 4</guid>
+            <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[M4 Presentation]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p><a href="https://flexigather.github.io/comunication_website/assets/files/M4-Events_Management_System-4-9123fc7e79e8a9f8bec467d499dd93c8.pdf" target="_blank">M4 Presentation</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://acanucbarcelos.pt/" target="_blank" rel="noopener noreferrer">Production Website</a></p>
+</blockquote>]]></content:encoded>
+            <category>prototype</category>
+            <category>mid-term presentation with supervisors</category>
+        </item>
         <item>
             <title><![CDATA[Milestone 3]]></title>
             <link>https://FlexiGather.github.io/comunication_website/blog/milestone 3</link>
